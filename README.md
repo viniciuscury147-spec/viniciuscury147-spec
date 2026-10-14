@@ -1,51 +1,39 @@
 # Olá, eu sou Vinicius Cury 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/?isSelfProfile=true) [![Email](https://img.shields.io/badge/-viniciuscury147@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:viniciuscury147@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/viniciuscury147-spec?label=Seguir&style=social)](https://github.com/viniciuscury147-spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/) [![Email](https://img.shields.io/badge/-viniciuscury147@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:viniciuscury147@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/viniciuscury147-spec?label=Seguir&style=social)](https://github.com/viniciuscury147-spec)
 
 ---
 
-Sou desenvolvedor Full Stack apaixonado por construir soluções limpas, escaláveis e orientadas a boas práticas. Tenho experiência e preferência por Python e C#, e atualmente estou cursando o 4º semestre de Ciência da Computação.
+Estudante de Ciência da Computação (4º semestre, UNISAGRADO), em busca de estágio em Engenharia de Software. Estou construindo minha base em **C#** e arquitetura de software, aprendendo na prática: escrevo o código, erro, depuro e comito.
 
 ## 🔎 Sobre mim
 
-- 🎯 Foco: desenvolvimento web (front-end e back-end) e sistemas bem arquitetados
-- 🐍 Linguagens favoritas: Python
-- ⚙️ Outras linguagens: C#
-- 🎓 Formação: 4º semestre em Ciência da Computação
-- 🚀 Mentalidade: aprendizagem contínua, código legível e colaboração em equipe
+- 🎓 Formação: Ciência da Computação, 4º semestre
+- 🎯 Foco atual: C#, orientação a objetos e arquitetura de software
+- 💼 Objetivo: estágio em Engenharia de Software
+- 🧠 Jeito de aprender: entender o porquê antes de copiar código
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- Linguagens: Python, C#
-- Web: HTML, CSS, JavaScript (básico) / REST APIs
-- Banco de dados: SQL
-- Versionamento: Git / GitHub
-- Práticas: testes, boas práticas, arquitetura organizada
-
-## 🧭 Objetivos profissionais
-
-- Evoluir em arquitetura de software e boas práticas de engenharia
-- Contribuir em projetos open source e times colaborativos
-- Construir aplicações de alto valor e performáticas
+- **Linguagem principal:** C# (.NET)
+- **Também tenho contato com:** Python e Kotlin
+- **Ferramentas:** Visual Studio, Git / GitHub, Excel
+- **Interfaces:** Windows Forms
+- **Dados:** arquivos JSON
+- **Outros:** noções de Linux, suporte a impressoras e periféricos
+- **Estudando agora:** SQL / SQLite, camadas de serviço e boas práticas de arquitetura
 
 ## ✨ Projetos em destaque
 
-Vou adicionar links e descrições dos meus projetos aqui — se você quiser, posso começar listando alguns repositórios que você já tem ou criar seções específicas para cada projeto.
+### 🎫 HelpDesk — Sistema de Chamados de TI (C# / .NET)
+Sistema de chamados com prioridades, status, atribuição de técnico e regras de negócio. Organizado em solução com camadas separadas (`Core` e `Console`).
+- ✅ Modelos e regras de negócio com validações
+- ✅ Serviço de chamados com busca por Id e por status
+- 🔜 Próximo passo: persistência com SQLite
+- 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciuscury147-spec&show_icons=true&theme=radical" alt="Vinicius Cury's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscury147-spec&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## 📫 Contato
-
-- Email: viniciuscury147@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vinicius-cury-258896324/?isSelfProfile=true
-
----
-
-Obrigado por visitar o meu perfil — estou sempre aberto a colaborações e novas oportunidades. 🚀
+### 🗺️ Bauru's Thur — Guia de pontos turísticos de Bauru (C# / Windows Forms)
+Aplicativo desktop sobre história, cultura e pontos turísticos de Bauru-SP, com 21 pontos em 4 categorias, lidos de um arquivo JSON.
+- ✅ Back end com modelos e camada de dados
+- 🚧 Em andamento: tela com os pontos turísticos ligada ao back end
+- 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORI
