@@ -8,10 +8,9 @@ Estudante de Ciência da Computação (2° semestre, UNISAGRADO), em busca de es
 
 ## 🔎 Sobre mim
 
-- 🎓 Formação: Ciência da Computação, 4º semestre
+- 🎓 Formação: Ciência da Computação, 2º semestre
 - 🎯 Foco atual: C#, orientação a objetos e arquitetura de software
 - 💼 Objetivo: estágio em Engenharia de Software
-- 🧠 Jeito de aprender: entender o porquê antes de copiar código
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -20,7 +19,7 @@ Estudante de Ciência da Computação (2° semestre, UNISAGRADO), em busca de es
 - **Ferramentas:** Visual Studio, Git / GitHub, Excel
 - **Interfaces:** Windows Forms
 - **Dados:** arquivos JSON
-- **Outros:** noções de Linux, suporte a impressoras e periféricos
+- **Outros:** noções de Linux, windows e suporte
 - **Estudando agora:** SQL / SQLite, camadas de serviço e boas práticas de arquitetura
 
 ## ✨ Projetos em destaque
