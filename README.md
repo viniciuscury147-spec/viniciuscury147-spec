@@ -70,14 +70,15 @@ Sistema de chamados com prioridades, status, atribuição de técnico e regras d
 - 🔜 Próximo passo: persistência com SQLite
 - 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
 
-### 🗺️ Bauru's Thur — Guia de pontos turísticos de Bauru
+### 🗺️ Bauru's Tour — Guia de pontos turísticos de Bauru
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Status](https://img.shields.io/badge/status-em%20andamento-orange?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-2ea44f?style=for-the-badge)
 
 Aplicativo desktop sobre história, cultura e pontos turísticos de Bauru-SP, com **21 pontos em 4 categorias**, lidos de um arquivo JSON.
 
 - ✅ Back end com modelos e camada de dados
-- 🚧 Em andamento: tela com os pontos turísticos ligada ao back end
+- ✅ Tela com os pontos turísticos ligada ao back end
+- 🏁 Projeto concluído
 - 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
 
 <br/>
@@ -86,8 +87,7 @@ Aplicativo desktop sobre história, cultura e pontos turísticos de Bauru-SP, co
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=viniciuscury147-spec&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Estatísticas"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscury147-spec&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Linguagens mais usadas"/>
+<img src="https://img.shields.io/github/followers/viniciuscury147-spec?label=Seguidores&style=for-the-badge&logo=github&color=0e75b6" alt="Seguidores"/>
 
 <br/><br/>
 
