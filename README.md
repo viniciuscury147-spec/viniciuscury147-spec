@@ -19,7 +19,7 @@
 
 ---
 
-Estudante de Ciência da Computação (2º semestre, **UNISAGRADO**), em busca de **estágio em Engenharia de Software**. Estou construindo minha base em **C#** e arquitetura de software, aprendendo na prática: escrevo o código, erro, depuro e comito.
+Estudante de Ciência da Computação (2º semestre, **UNISAGRADO**), em busca de **estágio em desenvolvimento de Software**. Estou construindo minha base em **C#** e arquitetura de software, aprendendo na prática: escrevo o código, erro, depuro e comito.
 
 <br/>
 
