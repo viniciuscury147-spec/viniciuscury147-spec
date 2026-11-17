@@ -68,7 +68,7 @@ Sistema de chamados com prioridades, status, atribuição de técnico e regras d
 - ✅ Modelos e regras de negócio com validações
 - ✅ Serviço de chamados com busca por Id e por status
 - 🔜 Próximo passo: persistência com SQLite
-- 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
+- 🔗 [Repositório](https://github.com/viniciuscury147-spec/HelpDesk)
 
 ### 🗺️ Bauru's Tour — Guia de pontos turísticos de Bauru
 
@@ -79,7 +79,7 @@ Aplicativo desktop sobre história, cultura e pontos turísticos de Bauru-SP, co
 - ✅ Back end com modelos e camada de dados
 - ✅ Tela com os pontos turísticos ligada ao back end
 - 🏁 Projeto concluído
-- 🔗 [Repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
+- 🔗 [Repositório]([COLE-AQUI-O-LINK-DO-REPOSITORIO](https://github.com/louplin/BauruTour))
 
 <br/>
 
