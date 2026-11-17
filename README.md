@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Vinicius%20Cury&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20C%23%20%7C%20Arquitetura%20de%20Software&descSize=20&descAlignY=58" alt="Cabeçalho animado" width="100%"/>
 
 <a href="https://github.com/viniciuscury147-spec">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Cury+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Construindo+minha+base+em+C%23+e+arquitetura+%F0%9F%92%BB;Em+busca+de+est%C3%A1gio+em+Engenharia+de+Software+%F0%9F%9A%80" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Cury+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Construindo+minha+base+em+C%23+e+arquitetura+%F0%9F%92%BB;Em+busca+de+est%C3%A1gio+em+Desenvolvimento+de+Software+%F0%9F%9A%80" alt="Texto animado" />
 </a>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 
 ---
 
-Estudante de Ciência da Computação (2º semestre, **UNISAGRADO**), em busca de **estágio em desenvolvimento de Software**. Estou construindo minha base em **C#** e arquitetura de software, aprendendo na prática: escrevo o código, erro, depuro e comito.
+Estudante de Ciência da Computação (2º semestre, **UNISAGRADO**), em busca de **estágio em Desenvolvimento de Software**. Estou construindo minha base em **C#** e arquitetura de software, aprendendo na prática: escrevo o código, erro, depuro e comito.
 
 <br/>
 
@@ -29,7 +29,7 @@ Estudante de Ciência da Computação (2º semestre, **UNISAGRADO**), em busca d
 > Nome ........... Vinicius Cury
 > Formação ....... Ciência da Computação, 2º semestre (UNISAGRADO)
 > Foco atual ..... C#, orientação a objetos e arquitetura de software
-> Objetivo ....... Estágio em Engenharia de Software
+> Objetivo ....... Estágio em Desenvolvimento de Software
 > Método ......... Escrever, errar, depurar e commitar 🔁
 ```
 
@@ -105,7 +105,7 @@ Aplicativo desktop sobre história, cultura e pontos turísticos de Bauru-SP, co
 
 <div align="center">
 
-Estou aberto a oportunidades de **estágio em Engenharia de Software** e a trocar ideias sobre código. 😄
+Estou aberto a oportunidades de **estágio em Desenvolvimento de Software** e a trocar ideias sobre código. 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/)
 [![Email](https://img.shields.io/badge/-Enviar%20e--mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:viniciuscury147@gmail.com)
